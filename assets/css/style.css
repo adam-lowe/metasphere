@@ -5,10 +5,16 @@ td {
 
 h3, h4 {
     text-align: center;
+    line-height: 150%;
 }
 
 #head {
     width: 100%;
+}
+
+.media-button {
+    width: 95%;
+    padding-left: 5%;
 }
 
 .pages {
