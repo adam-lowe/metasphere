@@ -17,6 +17,11 @@ h3, h4 {
     padding-left: 5%;
 }
 
+.media-button div {
+  background-color: lightskyblue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, black , lightskyblue);
+}
+
 .pages {
     width: 102%;
 }
