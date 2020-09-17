@@ -26,8 +26,12 @@ img {
     height: auto;
 }
 
-span {
+.highlighted {
     color: skyblue;
+}
+
+.nowrap {
+    white-space: nowrap;
 }
 
 .vl {
