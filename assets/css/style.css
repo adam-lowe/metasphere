@@ -18,8 +18,21 @@ h3, h4 {
 }
 
 .media-button div {
-  background-color: lightskyblue; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, black , lightskyblue);
+    padding-top: 5%;
+    padding-bottom: 4%;
+    margin-bottom: 5%;
+    background-color: lightskyblue; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, black , lightskyblue);
+    text-align: center;
+}
+
+.audtitle {
+    color: white;
+    margin-top: 4%;
+}
+
+audio {
+    width: 60%;
 }
 
 .pages {
